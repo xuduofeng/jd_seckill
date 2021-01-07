@@ -13,4 +13,4 @@ if [ "$1" = "seckill" ]; then
 	echo 2 | python main.py
 fi
 
-exec "$@"
+#exec "$@"
